@@ -87,5 +87,8 @@
     <ClInclude Include="A_Star.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Floyd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
